@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<c:forEach items="${1:\$\{item.children\}}" var="${2:child}">
+    <b:include src="\$\{$2\}"/>
+</c:forEach>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>c:</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope></scope> -->
+    <description>c:foreach</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<g:preference name="${1}" type="select-one" label="${2}">
+    <g:enumeration value="${3}" label="${4}" />
+    <g:enumeration value="${5}" label="${6}" />
+    ${7}
+</g:preference>
+]]></content>
+    <tabTrigger>g:</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>g:prefrence enumeration</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<g:include proxy="${1:true}" src="${2:}">
+    <g:http-proxy-param name="pipe" value="${3:rssPipe}" />
+    <g:http-param name="${4:title}" value="${5:\$\{title\}}" />
+</g:include>
+]]></content>
+    <tabTrigger>g:</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>g:include</description>
+</snippet>

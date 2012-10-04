@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<g:model objectType="${1:link}" depth="${2}" portalUid="\$\{currentPortalUid\}" offset="${3}" ${4:pageSize=""}>
+    <g:filter name="${5:name}" operator="${6:eq}" value="${7:navroot_mainmenu}"/>
+    <g:template value="${8:\$\{navTemplate\}}"/>
+</g:model>
+]]></content>
+    <tabTrigger>g:</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>g:model</description>
+</snippet>
