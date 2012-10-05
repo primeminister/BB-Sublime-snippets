@@ -3,7 +3,6 @@
 xmlns:g="http://www.backbase.com/2008/gadget"
 ]]></content>
     <tabTrigger>g:</tabTrigger> -->
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <scope>text.html</scope>
     <description>g namespace</description>
 </snippet>
