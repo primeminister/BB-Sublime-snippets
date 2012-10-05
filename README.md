@@ -11,12 +11,12 @@ Put them in your Sublime Text application support folder:
 
 Then in your editor you have two tab completion shortcodes. One for every snippet bundle:
 
-- g: (gadget namespace)
+- type in *'g:'* and hit <tab>
     - g:include
     - g:model
     - g:prefrences
     - g:enumeration prefrence
-- c:
+- type in *'c:'* and hit <tab>
     - c:out
     - c:if
     - c:foreach
