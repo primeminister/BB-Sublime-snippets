@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[<g:preferences>
+    <g:preference name="${1}" type="${2}" default="${3}" label="${4}" />
+    ${0}
+</g:preferences>
+]]></content>
+    <tabTrigger>g:</tabTrigger> -->
+    <scope>text.html</scope>
+    <description>g:preferences</description>
+</snippet>
