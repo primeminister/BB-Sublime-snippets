@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[<g:http-${1:proxy-}param name="${2}" value="${3:\$\{${4:...}\}}" />
+]]></content>
+    <tabTrigger>g:</tabTrigger> -->
+    <scope>text.html</scope>
+    <description>g:http-(proxy|preference-)param</description>
+</snippet>

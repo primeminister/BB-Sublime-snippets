@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<c:choose>
+	<c:when test="\$\{${1}\}">
+		${2}
+	</c:when>
+	${3:<c:otherwise>
+		${4}
+	</c:otherwise>}
+</c:choose>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>c:</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope></scope> -->
+    <description>c:choose</description>
+</snippet>
