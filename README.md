@@ -13,8 +13,9 @@ Then in your editor you have two tab completion shortcodes. One for every snippe
 - type in *'g:'* and hit &lt;tab&gt;
     - g:include
     - g:model
-    - g:prefrences
-    - g:enumeration prefrence
+    - g:preferences
+    - g:preference
+    - g:enumeration preference
 - type in *'c:'* and hit &lt;tab&gt;
     - c:out
     - c:if
@@ -24,6 +25,7 @@ Then in your editor you have two tab completion shortcodes. One for every snippe
 Want to expand or found some bugs?
 ----------------------------------
 Please fork the repo and send me a pull request with some comments.
+
 Thanks!
 
 License
