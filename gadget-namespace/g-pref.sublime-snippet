@@ -8,5 +8,5 @@
     <tabTrigger>g:</tabTrigger> -->
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
-    <description>g:prefrences</description>
+    <description>g:preferences</description>
 </snippet>
