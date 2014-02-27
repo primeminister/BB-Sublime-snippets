@@ -5,8 +5,8 @@
     ${5}
 </g:preferences>
 ]]></content>
-    <tabTrigger>g:</tabTrigger> -->
+    <tabTrigger>g:</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <!-- <scope>source.html</scope> -->
     <description>g:preferences</description>
 </snippet>

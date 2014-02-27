@@ -5,8 +5,8 @@
     <g:template value="${8:\$\{navTemplate\}}"/>
 </g:model>
 ]]></content>
-    <tabTrigger>g:</tabTrigger> -->
+    <tabTrigger>g:</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <!-- <scope>source.html</scope> -->
     <description>g:model</description>
 </snippet>
