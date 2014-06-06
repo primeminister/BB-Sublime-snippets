@@ -1,9 +1,6 @@
 <snippet>
-    <content><![CDATA[
-xmlns:g="http://www.backbase.com/2008/gadget"
-]]></content>
+    <content><![CDATA[xmlns:g="http://www.backbase.com/2008/gadget"]]></content>
     <tabTrigger>g:</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.html</scope> -->
-    <description>g: namespace</description>
+    <scope>text.html</scope>
+    <description>g:namespace</description>
 </snippet>

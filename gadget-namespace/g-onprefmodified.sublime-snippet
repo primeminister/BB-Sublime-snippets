@@ -1,7 +1,5 @@
 <snippet>
-    <content><![CDATA[
-g:onPrefModified="${1}"
-]]></content>
+    <content><![CDATA[g:onPrefModified="${1}" ]]></content>
     <tabTrigger>g:</tabTrigger> -->
     <scope>text.html</scope>
     <description>g:onPrefModified</description>

@@ -1,7 +1,5 @@
 <snippet>
-    <content><![CDATA[
-g:onload="${1}"
-]]></content>
+    <content><![CDATA[g:onload="${1}"]]></content>
     <tabTrigger>g:</tabTrigger> -->
     <scope>text.html</scope>
     <description>g:onload</description>
