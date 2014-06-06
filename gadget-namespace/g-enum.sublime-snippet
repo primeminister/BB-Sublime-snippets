@@ -6,7 +6,8 @@
     ${7}
 </g:preference>
 ]]></content>
-    <tabTrigger>g:</tabTrigger> -->
-    <scope>text.html</scope>
+    <tabTrigger>g:</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html</scope> -->
     <description>g:preference enumeration</description>
 </snippet>

@@ -2,7 +2,8 @@
     <content><![CDATA[<g:preference name="${1}" type="${2}" default="${3}" label="${4}" />
     ${0}
 ]]></content>
-    <tabTrigger>g:</tabTrigger> -->
-    <scope>text.html</scope>
+    <tabTrigger>g:</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html</scope> -->
     <description>g:preference</description>
 </snippet>

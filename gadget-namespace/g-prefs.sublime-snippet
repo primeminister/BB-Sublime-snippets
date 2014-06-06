@@ -1,6 +1,7 @@
 <snippet>
     <content><![CDATA[<g:preferences>
     <g:preference name="${1}" type="${2}" default="${3}" label="${4}" />
+    <g:preference name="${5}" type="${6}" default="${7}" label="${8}" />
     ${0}
 </g:preferences>
 ]]></content>

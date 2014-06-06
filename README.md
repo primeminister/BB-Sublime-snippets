@@ -1,11 +1,10 @@
 Backbase specific Sublime snippets
 ==================================
-
 Backbase sublime snippets like gadget namespace tags and jstl/core.
 There are two snippet bundles with their own tab completion short code.
 
 Usage:
------
+------
 Put them in your Sublime Text application support folder:
 ~/Library/Application Support/Sublime Text 2/Packages/User
 
@@ -14,8 +13,9 @@ Then in your editor you have two tab completion shortcodes. One for every snippe
 - type in *'g:'* and hit &lt;tab&gt;
     - g:include
     - g:model
-    - g:prefrences
-    - g:enumeration prefrence
+    - g:preferences
+    - g:preference
+    - g:enumeration preference
 - type in *'c:'* and hit &lt;tab&gt;
     - c:out
     - c:if
@@ -25,10 +25,13 @@ Then in your editor you have two tab completion shortcodes. One for every snippe
 Want to expand or found some bugs?
 ----------------------------------
 Please fork the repo and send me a pull request with some comments.
+
 Thanks!
 
-License:
---------
+License
+=======
+Copyright 2013 Backbase B.V.
+
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
