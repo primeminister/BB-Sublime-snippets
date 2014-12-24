@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[for(var ${1:key} in ${2:obj}) {
+    var value = $2[$1];
+}
+${0}]]></content>
+    <tabTrigger>forin</tabTrigger>
+    <scope>text.html, source.js</scope>
+    <description>for..in</description>
+</snippet>
